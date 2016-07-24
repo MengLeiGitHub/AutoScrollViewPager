@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin-features
+	Bundle-Name="cicleprogrossbar" 
+	Bundle-SymbolicName="com.example.cicleprogrossbar"	
+	Bundle-Version="1.0"
+	date="2016.4.26"
+	provider-name="Apkplug" 
+	provider-url="" 
+	Bundle-Activator="biren.SimpleBundle"
+	Bundle-Activity="com.cicleprogrossbar.MainActivity"
+	>
+</plugin-features>
